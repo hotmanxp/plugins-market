@@ -1,0 +1,16 @@
+{
+  "name": "@hotmanxp/plugins-market",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "description": "Example plugin demonstrating git-subdir structure",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/example-plugin",
+        "ref": "main"
+      }
+    }
+  ]
+}
