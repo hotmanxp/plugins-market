@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "plugins": [
     {
+      "name": "superpowers",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "version": "5.1.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/superpowers",
+        "ref": "main"
+      }
+    },
+    {
       "name": "example-plugin",
       "description": "Example plugin demonstrating git-subdir structure",
       "source": {

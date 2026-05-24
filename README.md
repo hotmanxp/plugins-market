@@ -9,6 +9,7 @@ Monorepo containing multiple Claude plugins, distributed via `git-subdir` sparse
 /plugin add hotmanxp/plugins-market
 
 # Install plugins
+/plugin install superpowers@hotmanxp/plugins-market
 /plugin install example-plugin@hotmanxp/plugins-market
 ```
 
@@ -16,4 +17,5 @@ Monorepo containing multiple Claude plugins, distributed via `git-subdir` sparse
 
 | Plugin | Description |
 |--------|-------------|
+| superpowers | Core skills library: TDD, debugging, collaboration patterns, and proven techniques |
 | example-plugin | Example plugin demonstrating git-subdir structure |
