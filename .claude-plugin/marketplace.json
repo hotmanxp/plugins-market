@@ -1,6 +1,10 @@
 {
-  "name": "@hotmanxp/plugins-market",
-  "version": "1.0.0",
+  "name": "hotmanxp-plugins-market",
+  "description": "Monorepo containing multiple Claude plugins",
+  "owner": {
+    "name": "hotmanxp",
+    "email": ""
+  },
   "plugins": [
     {
       "name": "superpowers",
