@@ -1,0 +1,10 @@
+{
+  "name": "gopls-lsp",
+  "version": "1.0.0",
+  "description": "Go language server (gopls) for Claude Code, providing code intelligence for Go projects",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}

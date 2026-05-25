@@ -1,0 +1,10 @@
+{
+  "name": "jdtls-lsp",
+  "version": "1.0.0",
+  "description": "Eclipse JDT Language Server for Claude Code, providing code intelligence for Java projects",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}

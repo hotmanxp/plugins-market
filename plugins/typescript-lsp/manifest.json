@@ -1,0 +1,10 @@
+{
+  "name": "typescript-lsp",
+  "version": "1.0.0",
+  "description": "TypeScript language server (typescript-language-server) for Claude Code",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}

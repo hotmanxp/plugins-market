@@ -1,0 +1,10 @@
+{
+  "name": "kotlin-lsp",
+  "version": "1.0.0",
+  "description": "Kotlin Language Server (Kotlin Analysis API) for Claude Code",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  },
+  "repository": "https://github.com/anthropics/claude-plugins-official"
+}
