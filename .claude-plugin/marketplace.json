@@ -26,6 +26,86 @@
         "path": "plugins/example-plugin",
         "ref": "main"
       }
+    },
+    {
+      "name": "typescript-lsp",
+      "description": "TypeScript language server (typescript-language-server) for Claude Code",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/typescript-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "rust-analyzer-lsp",
+      "description": "Rust Analyzer LSP for code intelligence for Rust projects",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/rust-analyzer-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "pyright-lsp",
+      "description": "Pyright language server for Python code intelligence",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/pyright-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "jdtls-lsp",
+      "description": "Eclipse JDT Language Server for Java code intelligence",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/jdtls-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "kotlin-lsp",
+      "description": "Kotlin Language Server for Kotlin code intelligence",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/kotlin-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "gopls-lsp",
+      "description": "Go language server (gopls) for Go code intelligence",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/gopls-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "swift-lsp",
+      "description": "Swift language server (SourceKit-LSP) for Swift code intelligence",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/swift-lsp",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "feature-dev",
+      "description": "7-phase structured feature development workflow with specialized agents",
+      "source": {
+        "source": "git-subdir",
+        "url": "hotmanxp/plugins-market",
+        "path": "plugins/feature-dev",
+        "ref": "main"
+      }
     }
   ]
 }
